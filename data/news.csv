@@ -1,0 +1,11 @@
+title,text,ip_address,label
+"Alien Invasion Confirmed","NASA confirms aliens have landed in New York City.","192.168.1.1","FAKE"
+"Stock Market Crash Imminent","Experts predict total collapse of the economy tomorrow.","10.0.0.1","FAKE"
+"New Cure for Common Cold","Scientists discover a revolutionary cure for the common cold using lemon juice.","172.16.0.1","FAKE"
+"Local Election Results","The incumbent mayor has won the election by a narrow margin.","8.8.8.8","REAL"
+"Tech Giant Releases New Phone","Apple announces the new iPhone 15 with improved battery life.","1.1.1.1","REAL"
+"Weather Forecast for the Week","Expect heavy rain and thunderstorms throughout the week.","142.250.190.46","REAL"
+"Celebrity Spotted in Local Cafe","Famous actor seen buying coffee at downtown cafe.","203.0.113.1","FAKE"
+"Government Passes New Bill","Parliament approves the new infrastructure bill today.","8.8.4.4","REAL"
+"Miracle Diet Pill Found","Lose 20kg in one week with this new pill!","198.51.100.1","FAKE"
+"Scientific Breakthrough in Fusion","Researchers achieve net energy gain in nuclear fusion experiment.","142.251.46.174","REAL"
